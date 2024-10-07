@@ -4,10 +4,13 @@ Hi there! My name is Sergey
 I"m a passionate programmer and avid learner. I love to explore new technologies and experiment with different programming languages to build cool projects. I"m a great fan of programming and its impact on human life. This is my Github profile, where you can find some of the projects that I have worked on.
 
 🌍  I'm based in Moscow
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Sereska7/Sereska7/output/github-contribution-grid-snake-dark.svg">
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Sereska7/Sereska7/output/github-contribution-grid-snake-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Sereska7/Sereska7/output/github-contribution-grid-snake.svg">
-    <img alt="GitHub Contribution Grid Snake Animation" src="https://raw.githubusercontent.com/Sereska7/Sereska7/output/github-contribution-grid-snake.svg"></picture>
+    <img alt="GitHub Contribution Grid Snake Animation" src="https://raw.githubusercontent.com/Sereska7/Sereska7/output/github-contribution-grid-snake.svg">
+  </picture>
+</p>
 
 <br>
 
