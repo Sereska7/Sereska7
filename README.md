@@ -6,8 +6,8 @@ I"m a passionate programmer and avid learner. I love to explore new technologies
 🌍  I'm based in Moscow
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Sereska7/Sereska7/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Sereska7/Sereska7/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Sereska7/Sereska7/output/github-contribution-grid-snake.svg"></picture>
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Sereska7/Sereska7/output/github-contribution-grid-snake.svg">
+    <img alt="GitHub Contribution Grid Snake Animation" src="https://raw.githubusercontent.com/Sereska7/Sereska7/output/github-contribution-grid-snake.svg"></picture>
 
 <br>
 
