@@ -19,7 +19,7 @@ jobs:
         uses: actions/checkout@v3
 
       - name: Generate snake animation
-        uses: Platane/snk/svg-only@v3
+        uses: Platane/snk/svg-only@v2
         with:
           github_user_name: Sereska7
           outputs: |
@@ -29,6 +29,6 @@ jobs:
       - name: Deploy to GitHub Pages
         uses: peaceiris/actions-gh-pages@v3
         with:
-          personal_token: ${{ secrets.PUT_TOKEN }}
+          github_token: ${{ secrets.MY_PAT_TOKEN }}
           publish_dir: ./dist
           publish_branch: output
