@@ -31,6 +31,7 @@ I"m a passionate programmer and avid learner. I love to explore new technologies
 <a href="https://fastapi.tiangolo.com/" target="_blank"><img style="margin: 10px" src="https://cdn.worldvectorlogo.com/logos/fastapi-1.svg" alt="FastAPI" height="50" /></a>
 <a href="https://www.postgresql.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="50" /></a>  
 <a href="https://www.docker.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="50" /></a>
+<a href="https://docs.celeryproject.org/en/stable/" target="_blank"><img style="margin: 10px" src="https://docs.celeryproject.org/en/stable/_static/celery_512.png" alt="Celery" height="50" /></a>
 <a href="https://redis.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/redis-original-wordmark.svg" alt="Redis" height="50" /></a>  
 </div>
 
