@@ -18,8 +18,13 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v3
 
+      - name: Set up Node.js
+        uses: actions/setup-node@v3
+        with:
+          node-version: '20'
+
       - name: Generate snake animation
-        uses: Platane/snk/svg-only@v2
+        uses: Platane/snk@v2
         with:
           github_user_name: Sereska7
           outputs: |
@@ -29,6 +34,6 @@ jobs:
       - name: Deploy to GitHub Pages
         uses: peaceiris/actions-gh-pages@v3
         with:
-          github_token: ${{ secrets.MY_PAT_TOKEN }}
+          github_token: ${{ secrets.PUT_TOKEN }}
           publish_dir: ./dist
           publish_branch: output
