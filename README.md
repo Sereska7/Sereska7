@@ -42,8 +42,8 @@ I"m a passionate programmer and avid learner. I love to explore new technologies
 
 ### DevOps  
 <div style="display: flex; flex-direction: column; align-items: center; gap: 10px;">
-  <!-- Верхний ряд (3 иконки) -->
-  <div style="display: flex; justify-content: center; align-items: center; gap: 30px;">
+  <!-- Верхний ряд (3 иконки, центрируем) -->
+  <div style="display: flex; justify-content: center; gap: 30px; width: 100%;">
     <a href="https://www.linux.org/" target="_blank">
       <img style="height: 50px; width: 50px;" src="https://upload.wikimedia.org/wikipedia/commons/a/af/Tux.png" alt="Linux" />
     </a>  
@@ -56,7 +56,7 @@ I"m a passionate programmer and avid learner. I love to explore new technologies
   </div>
 
   <!-- Нижний ряд (2 иконки, центрируем) -->
-  <div style="display: flex; justify-content: center; align-items: center; gap: 30px;">
+  <div style="display: flex; justify-content: center; gap: 30px; width: 100%;">
     <a href="https://grafana.com/" target="_blank">
       <img style="height: 50px; width: 50px;" src="https://upload.wikimedia.org/wikipedia/commons/3/3b/Grafana_icon.svg" alt="Grafana" />
     </a>  
