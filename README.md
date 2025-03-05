@@ -42,8 +42,24 @@ I"m a passionate programmer and avid learner. I love to explore new technologies
 
 ### DevOps  
 <div align="center">  
-<a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" /></a>  
-<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
+  <a href="https://www.linux.org/" target="_blank">
+    <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" />
+  </a>  
+  <a href="https://github.com/" target="_blank">
+    <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" />
+  </a>  
+  <a href="https://www.vaultproject.io/" target="_blank">
+    <img style="margin: 10px" src="https://www.vectorlogo.zone/logos/hashicorp_vault/hashicorp_vault-icon.svg" alt="Vault" height="50" />
+  </a>  
+  <a href="https://grafana.com/" target="_blank">
+    <img style="margin: 10px" src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="Grafana" height="50" />
+  </a>  
+  <a href="https://nginx.org/" target="_blank">
+    <img style="margin: 10px" src="https://www.vectorlogo.zone/logos/nginx/nginx-icon.svg" alt="Nginx" height="50" />
+  </a>  
+  <a href="https://github.com/features/actions" target="_blank">
+    <img style="margin: 10px" src="https://www.svgrepo.com/show/353735/github-actions.svg" alt="CI/CD (GitHub Actions)" height="50" />
+  </a>  
 </div>
 
 </td></tr></table>  
