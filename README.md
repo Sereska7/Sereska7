@@ -43,16 +43,16 @@ I"m a passionate programmer and avid learner. I love to explore new technologies
 ### DevOps  
 <div align="center">  
   <a href="https://www.linux.org/" target="_blank">
-    <img style="margin: 10px; height: 50px;" src="https://upload.wikimedia.org/wikipedia/commons/a/af/Tux.png" alt="Linux" />
-  </a>
+    <img style="margin: 10px; height: 50px; width: 50px;" src="https://upload.wikimedia.org/wikipedia/commons/a/af/Tux.png" alt="Linux" />
+  </a>  
   <a href="https://www.vaultproject.io/" target="_blank">
     <img style="margin: 10px; height: 50px; width: 50px;" src="https://api.iconify.design/simple-icons:vault.svg" alt="Vault" />
   </a>  
   <a href="https://grafana.com/" target="_blank">
-    <img style="margin: 10px; height: 50px;" src="https://upload.wikimedia.org/wikipedia/commons/3/3b/Grafana_icon.svg" alt="Grafana" />
+    <img style="margin: 10px; height: 50px; width: 50px;" src="https://upload.wikimedia.org/wikipedia/commons/3/3b/Grafana_icon.svg" alt="Grafana" />
   </a>  
   <a href="https://nginx.org/" target="_blank">
-    <img style="margin: 10px; height: 50px;" src="https://upload.wikimedia.org/wikipedia/commons/c/c5/Nginx_logo.svg" alt="Nginx" />
+    <img style="margin: 10px; height: 50px; width: 50px;" src="https://upload.wikimedia.org/wikipedia/commons/c/c5/Nginx_logo.svg" alt="Nginx" />
   </a>  
 </div>
 
