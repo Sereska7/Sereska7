@@ -32,7 +32,8 @@ I"m a passionate programmer and avid learner. I love to explore new technologies
 <a href="https://www.postgresql.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="50" /></a>  
 <a href="https://www.docker.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="50" /></a>
 <a href="https://docs.celeryproject.org/en/stable/" target="_blank"><img style="margin: 10px" src="https://docs.celeryproject.org/en/stable/_static/celery_512.png" alt="Celery" height="50" /></a>
-<a href="https://redis.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/redis-original-wordmark.svg" alt="Redis" height="50" /></a>  
+<a href="https://redis.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/redis-original-wordmark.svg" alt="Redis" height="50" /></a>
+<a href="https://www.rabbitmq.com/" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/3/3a/RabbitMQ_logo.svg" alt="RabbitMQ" height="50" /></a>  
 </div>
 
 </td><td valign="top" width="33%">
@@ -58,7 +59,7 @@ I"m a passionate programmer and avid learner. I love to explore new technologies
     <a href="https://vk.com/id185724528" target="_blank">
       <img src="https://cdn-icons-png.flaticon.com/512/145/145813.png" width="40" height="40" alt="VK Badge"/>
     </a>
-    <a href="https://hh.ru/resume/f1ba635dff0db854600039ed1f526f566f7474" target="_blank">
+    <a href="https://hh.ru/resume/58ed56f9ff0e7b54650039ed1f384a43526131" target="_blank">
       <img src="https://play-lh.googleusercontent.com/s6JiMSUktkTX0ejwpJ-DgqVb03dE00O975GGOoMmrlVL1aI8A1yOy7xh3dOSaxpuFWJH=w240-h480-rw" width="40" height="40" alt="hh" />
     </a>
     <a href="mailto:sergo.ryzakov@gmail.com">
