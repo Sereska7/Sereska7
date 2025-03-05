@@ -41,22 +41,29 @@ I"m a passionate programmer and avid learner. I love to explore new technologies
 
 
 ### DevOps  
-<div style="display: flex; justify-content: center; align-items: center; gap: 20px;">  
-  <a href="https://www.linux.org/" target="_blank">
-    <img style="height: 50px; width: 50px; vertical-align: middle;" src="https://upload.wikimedia.org/wikipedia/commons/a/af/Tux.png" alt="Linux" />
-  </a>  
-  <a href="https://gitlab.com/" target="_blank">
-    <img style="height: 50px; width: 50px; vertical-align: middle;" src="https://about.gitlab.com/images/press/logo/png/gitlab-icon-rgb.png" alt="GitLab CI/CD" />
-  </a>  
-  <a href="https://www.vaultproject.io/" target="_blank">
-    <img style="height: 50px; width: 50px; vertical-align: middle;" src="https://api.iconify.design/simple-icons:vault.svg" alt="Vault" />
-  </a>  
-  <a href="https://grafana.com/" target="_blank">
-    <img style="height: 50px; width: 50px; vertical-align: middle;" src="https://upload.wikimedia.org/wikipedia/commons/3/3b/Grafana_icon.svg" alt="Grafana" />
-  </a>  
-  <a href="https://nginx.org/" target="_blank">
-    <img style="height: 50px; width: 50px; vertical-align: middle;" src="https://upload.wikimedia.org/wikipedia/commons/c/c5/Nginx_logo.svg" alt="Nginx" />
-  </a>  
+<div style="display: flex; flex-direction: column; align-items: center; gap: 10px;">
+  <!-- Верхний ряд -->
+  <div style="display: flex; justify-content: center; gap: 20px;">
+    <a href="https://www.linux.org/" target="_blank">
+      <img style="height: 50px; width: 50px;" src="https://upload.wikimedia.org/wikipedia/commons/a/af/Tux.png" alt="Linux" />
+    </a>  
+    <a href="https://gitlab.com/" target="_blank">
+      <img style="height: 50px; width: 50px;" src="https://about.gitlab.com/images/press/logo/png/gitlab-icon-rgb.png" alt="GitLab CI/CD" />
+    </a>  
+    <a href="https://www.vaultproject.io/" target="_blank">
+      <img style="height: 50px; width: 50px;" src="https://api.iconify.design/simple-icons:vault.svg" alt="Vault" />
+    </a>  
+  </div>
+
+  <!-- Нижний ряд -->
+  <div style="display: flex; justify-content: center; gap: 20px;">
+    <a href="https://grafana.com/" target="_blank">
+      <img style="height: 50px; width: 50px;" src="https://upload.wikimedia.org/wikipedia/commons/3/3b/Grafana_icon.svg" alt="Grafana" />
+    </a>  
+    <a href="https://nginx.org/" target="_blank">
+      <img style="height: 50px; width: 50px;" src="https://upload.wikimedia.org/wikipedia/commons/c/c5/Nginx_logo.svg" alt="Nginx" />
+    </a>  
+  </div>
 </div>
 
 </td></tr></table>  
