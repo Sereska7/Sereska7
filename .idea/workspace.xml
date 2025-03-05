@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="651d94d6-c84d-427c-bba8-6ffc502f2092" name="Changes" comment="new resume">
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-    </list>
+    <list default="true" id="651d94d6-c84d-427c-bba8-6ffc502f2092" name="Changes" comment="new dev-ops" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -52,7 +50,7 @@
       <workItem from="1728298879455" duration="1602000" />
       <workItem from="1728306036858" duration="1816000" />
       <workItem from="1728308850205" duration="41000" />
-      <workItem from="1741181341903" duration="324000" />
+      <workItem from="1741181341903" duration="649000" />
     </task>
     <task id="LOCAL-00001" summary="new resume">
       <option name="closed" value="true" />
@@ -62,7 +60,23 @@
       <option name="project" value="LOCAL" />
       <updated>1741181604885</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="picture for rabbit">
+      <option name="closed" value="true" />
+      <created>1741181711099</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1741181711099</updated>
+    </task>
+    <task id="LOCAL-00003" summary="new dev-ops">
+      <option name="closed" value="true" />
+      <created>1741181954827</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1741181954827</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -70,6 +84,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="new resume" />
-    <option name="LAST_COMMIT_MESSAGE" value="new resume" />
+    <MESSAGE value="picture for rabbit" />
+    <MESSAGE value="new dev-ops" />
+    <option name="LAST_COMMIT_MESSAGE" value="new dev-ops" />
   </component>
 </project>
