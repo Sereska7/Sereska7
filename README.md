@@ -41,29 +41,22 @@ I"m a passionate programmer and avid learner. I love to explore new technologies
 
 
 ### DevOps  
-<div style="display: flex; flex-direction: column; align-items: center; gap: 15px;">
-  <!-- Верхний ряд (3 иконки) -->
-  <div style="display: flex; justify-content: center; gap: 30px; width: 100%;">
-    <a href="https://www.linux.org/" target="_blank">
-      <img style="height: 50px; width: 50px;" src="https://upload.wikimedia.org/wikipedia/commons/a/af/Tux.png" alt="Linux" />
-    </a>  
-    <a href="https://gitlab.com/" target="_blank">
-      <img style="height: 50px; width: 50px;" src="https://about.gitlab.com/images/press/logo/png/gitlab-icon-rgb.png" alt="GitLab CI/CD" />
-    </a>  
-    <a href="https://www.vaultproject.io/" target="_blank">
-      <img style="height: 50px; width: 50px;" src="https://api.iconify.design/simple-icons:vault.svg" alt="Vault" />
-    </a>  
-  </div>
-
-  <!-- Нижний ряд (2 иконки, центрируем) -->
-  <div style="display: flex; justify-content: center; gap: 30px; width: 60%;">
-    <a href="https://grafana.com/" target="_blank">
-      <img style="height: 50px; width: 50px;" src="https://upload.wikimedia.org/wikipedia/commons/3/3b/Grafana_icon.svg" alt="Grafana" />
-    </a>  
-    <a href="https://nginx.org/" target="_blank">
-      <img style="height: 50px; width: 50px;" src="https://upload.wikimedia.org/wikipedia/commons/c/c5/Nginx_logo.svg" alt="Nginx" />
-    </a>  
-  </div>
+<div align="center">  
+  <a href="https://www.linux.org/" target="_blank">
+    <img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/a/af/Tux.png" alt="Linux" height="50" />
+  </a>  
+  <a href="https://gitlab.com/" target="_blank">
+    <img style="margin: 10px; width: 40px;" src="https://upload.wikimedia.org/wikipedia/commons/e/e1/GitLab_logo.svg" alt="GitLab CI/CD" />
+  </a>  
+  <a href="https://www.vaultproject.io/" target="_blank">
+    <img style="margin: 10px; width: 40px;" src="https://api.iconify.design/simple-icons:vault.svg" alt="Vault" />
+  </a>  
+  <a href="https://grafana.com/" target="_blank">
+    <img style="margin: 10px; width: 45px;" src="https://upload.wikimedia.org/wikipedia/commons/3/3b/Grafana_icon.svg" alt="Grafana" />
+  </a>  
+  <a href="https://nginx.org/" target="_blank">
+    <img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/c/c5/Nginx_logo.svg" alt="Nginx" height="50" />
+  </a>  
 </div>
 
 </td></tr></table>  
