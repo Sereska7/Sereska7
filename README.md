@@ -33,7 +33,7 @@ I"m a passionate programmer and avid learner. I love to explore new technologies
 <a href="https://www.docker.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="50" /></a>
 <a href="https://docs.celeryproject.org/en/stable/" target="_blank"><img style="margin: 10px" src="https://docs.celeryproject.org/en/stable/_static/celery_512.png" alt="Celery" height="50" /></a>
 <a href="https://redis.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/redis-original-wordmark.svg" alt="Redis" height="50" /></a>
-<a href="https://www.rabbitmq.com/" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/3/3a/RabbitMQ_logo.svg" alt="RabbitMQ" height="50" /></a>  
+<a href="https://www.rabbitmq.com/" target="_blank"><img style="margin: 10px" src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-ar21.svg" alt="RabbitMQ" height="50" /></a>  
 </div>
 
 </td><td valign="top" width="33%">
