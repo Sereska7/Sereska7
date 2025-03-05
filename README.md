@@ -43,19 +43,19 @@ I"m a passionate programmer and avid learner. I love to explore new technologies
 ### DevOps  
 <div align="center">  
   <a href="https://www.linux.org/" target="_blank">
-    <img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/a/af/Tux.png" alt="Linux" height="50" />
+    <img style="margin: 10px; height: 50px;" src="https://upload.wikimedia.org/wikipedia/commons/a/af/Tux.png" alt="Linux" />
   </a>  
   <a href="https://gitlab.com/" target="_blank">
-    <img style="margin: 10px; width: 50px;" src="https://upload.wikimedia.org/wikipedia/commons/e/e1/GitLab_logo.svg" alt="GitLab CI/CD" height="50" />
+    <img style="margin: 10px; height: 50px; width: 50px;" src="https://upload.wikimedia.org/wikipedia/commons/3/36/GitLab_logo.svg" alt="GitLab CI/CD" />
   </a>  
   <a href="https://www.vaultproject.io/" target="_blank">
-    <img style="margin: 10px; width: 40px;" src="https://api.iconify.design/simple-icons:vault.svg" alt="Vault" />
+    <img style="margin: 10px; height: 50px; width: 50px;" src="https://www.svgrepo.com/show/303278/vault.svg" alt="Vault" />
   </a>  
   <a href="https://grafana.com/" target="_blank">
-    <img style="margin: 10px; width: 45px;" src="https://upload.wikimedia.org/wikipedia/commons/3/3b/Grafana_icon.svg" alt="Grafana" />
+    <img style="margin: 10px; height: 50px;" src="https://upload.wikimedia.org/wikipedia/commons/3/3b/Grafana_icon.svg" alt="Grafana" />
   </a>  
   <a href="https://nginx.org/" target="_blank">
-    <img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/c/c5/Nginx_logo.svg" alt="Nginx" height="40" />
+    <img style="margin: 10px; height: 50px;" src="https://upload.wikimedia.org/wikipedia/commons/c/c5/Nginx_logo.svg" alt="Nginx" />
   </a>  
 </div>
 
