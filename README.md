@@ -55,8 +55,8 @@ I"m a passionate programmer and avid learner. I love to explore new technologies
     <img style="margin: 10px; height: 50px;" src="https://upload.wikimedia.org/wikipedia/commons/3/3b/Grafana_icon.svg" alt="Grafana" />
   </a>  
   <a href="https://nginx.org/" target="_blank">
-    <img style="margin: 5px; height: 50px;" src="https://upload.wikimedia.org/wikipedia/commons/c/c5/Nginx_logo.svg" alt="Nginx" />
-  </a>  
+    <img style="margin: 10px; height: 40px; width: 50px;" src="https://upload.wikimedia.org/wikipedia/commons/c/c5/Nginx_logo.svg" alt="Nginx" />
+  </a> 
 </div>
 
 </td></tr></table>  
