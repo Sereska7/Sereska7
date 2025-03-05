@@ -46,7 +46,7 @@ I"m a passionate programmer and avid learner. I love to explore new technologies
     <img style="margin: 10px; height: 50px; width: 50px;" src="https://upload.wikimedia.org/wikipedia/commons/a/af/Tux.png" alt="Linux" />
   </a>
   <a href="https://gitlab.com/" target="_blank">
-    <img style="margin: 10px; height: 50px; width: 50px;" src="https://upload.wikimedia.org/wikipedia/commons/3/36/GitLab_logo.svg" alt="GitLab CI/CD" />
+    <img style="margin: 10px; height: 50px; width: 50px;" src="https://about.gitlab.com/images/press/logo/png/gitlab-icon-rgb.png" alt="GitLab CI/CD" />
   </a>
   <a href="https://www.vaultproject.io/" target="_blank">
     <img style="margin: 10px; height: 50px; width: 50px;" src="https://api.iconify.design/simple-icons:vault.svg" alt="Vault" />
