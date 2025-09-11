@@ -72,7 +72,7 @@ I"m a passionate programmer and avid learner. I love to explore new technologies
     <a href="https://vk.com/id185724528" target="_blank">
       <img src="https://cdn-icons-png.flaticon.com/512/145/145813.png" width="40" height="40" alt="VK Badge"/>
     </a>
-    <a href="https://hh.ru/resume/58ed56f9ff0e7b54650039ed1f384a43526131" target="_blank">
+    <a href="https://nn.hh.ru/resume/524f2313ff0f4b4a7b0039ed1f6761454e6b58" target="_blank">
       <img src="https://play-lh.googleusercontent.com/s6JiMSUktkTX0ejwpJ-DgqVb03dE00O975GGOoMmrlVL1aI8A1yOy7xh3dOSaxpuFWJH=w240-h480-rw" width="40" height="40" alt="hh" />
     </a>
     <a href="mailto:sergo.ryzakov@gmail.com">
